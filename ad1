@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="Google Web Designer 1.7.0.1114">
+  <meta name="template" content="Banner 3.0.0">
+  <meta name="environment" content="gwd-doubleclick">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="gwdpage_style.css" rel="stylesheet" data-version="8" data-exports-type="gwd-page">
+  <link href="gwdpagedeck_style.css" rel="stylesheet" data-version="9" data-exports-type="gwd-pagedeck">
+  <link href="gwddoubleclick_style.css" rel="stylesheet" data-version="14" data-exports-type="gwd-doubleclick">
+  <link href="gwdimage_style.css" rel="stylesheet" data-version="9" data-exports-type="gwd-image">
+  <style type="text/css" id="gwd-lightbox-style">
+    .gwd-lightbox {
+      overflow: hidden;
+    }
+  </style>
+  <style type="text/css" id="gwd-text-style">
+    p {
+      margin: 0px;
+    }
+    h1 {
+      margin: 0px;
+    }
+    h2 {
+      margin: 0px;
+    }
+    h3 {
+      margin: 0px;
+    }
+  </style>
+  <style type="text/css">
+    html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0px;
+    }
+    .gwd-page-container {
+      position: relative;
+      width: 100%;
+      height: 100%;
+    }
+    .gwd-page-content {
+      transform: perspective(1400px) matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+      transform-style: preserve-3d;
+      position: absolute;
+      background-color: transparent;
+    }
+    .gwd-page-wrapper {
+      position: absolute;
+      transform: translateZ(0px);
+      background-color: rgb(255, 255, 255);
+    }
+    .gwd-page-size {
+      width: 300px;
+      height: 250px;
+    }
+    .gwd-img-1xym {
+      position: absolute;
+      left: 50%;
+      transform-style: preserve-3d;
+      top: 50%;
+      width: 300px;
+      height: 253px;
+      transform-origin: 150.304px 130.387px 0px;
+      opacity: 0;
+      transform: translate3d(-211px, -63px, 0px) scale3d(0.593978, 0.593978, 1);
+    }
+    .gwd-div-1kk7 {
+      position: absolute;
+      width: 300px;
+      height: 250px;
+      left: 0px;
+      top: 0px;
+      background-image: -webkit-radial-gradient(center center, circle cover, rgba(0, 92, 145, 0.772549) 2%, rgb(0, 92, 145) 76%);
+      background-color: transparent;
+    }
+    .gwd-canvas-1dhy {
+      position: absolute;
+      top: 217px;
+      height: 33px;
+      left: 44px;
+      width: 256px;
+      transform-origin: 128.021px 16.488px 0px;
+    }
+    .gwd-div-11d9 {
+      position: absolute;
+      left: 0px;
+      top: 218px;
+      width: 300px;
+      height: 32px;
+      transform-origin: 150.005px 16.1663px 0px;
+      background-image: none;
+      background-color: rgb(255, 255, 255);
+    }
+    .gwd-canvas-3evy {
+      position: absolute;
+      width: 301.009px;
+      height: 75.0963px;
+      left: -0.5124px;
+      top: 175.389px;
+    }
+    @keyframes gwd-gen-7eu7gwdanimation_gwd-keyframes {
+      0% {
+        transform: translate3d(-211px, -63px, 0px) scale3d(0.593978, 0.593978, 1);
+        opacity: 0;
+        animation-timing-function: ease-in;
+      }
+      2.38% {
+        transform: translate3d(-245px, -35px, 0px) scale3d(0.37, 0.37, 1);
+        opacity: 1;
+        animation-timing-function: linear;
+      }
+      42.93% {
+        transform: translate3d(-245px, -35px, 0px) scale3d(0.37, 0.37, 1);
+        opacity: 1;
+        animation-timing-function: linear;
+      }
+      46.9% {
+        transform: translate3d(-245px, -35px, 0px) scale3d(0.37, 0.37, 1);
+        opacity: 0.88;
+        animation-timing-function: linear;
+      }
+      47.69% {
+        transform: translate3d(-245px, -35px, 0px) scale3d(0.37, 0.37, 1);
+        opacity: 1;
+        animation-timing-function: linear;
+      }
+      96.98% {
+        transform: translate3d(-245px, -35px, 0px) scale3d(0.37, 0.37, 1);
+        opacity: 1;
+        animation-timing-function: linear;
+      }
+      100% {
+        transform: translate3d(-256px, -51px, 0px) scale3d(0.247196, 0.247196, 1);
+        opacity: 1;
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-7eu7gwdanimation {
+      animation: gwd-gen-7eu7gwdanimation_gwd-keyframes 6.29s linear 0s 1 normal forwards;
+    }
+    @keyframes gwd-gen-1f5jgwdanimation_gwd-keyframes {
+      0% {
+        opacity: 0;
+        transform: translate3d(10px, 0px, 0px);
+        animation-timing-function: ease-in;
+      }
+      10.53% {
+        opacity: 1;
+        transform: translate3d(0px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      84.21% {
+        opacity: 1;
+        transform: translate3d(0px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      100% {
+        opacity: 0;
+        transform: translate3d(10px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+    }
+    .gwd-play-animation [data-gwd-group="FIREARMS"] .gwd-gen-1f5jgwdanimation {
+      animation: gwd-gen-1f5jgwdanimation_gwd-keyframes 1.9s linear 0.1s 1 normal forwards;
+    }
+    @keyframes gwd-gen-rl3ogwdanimation_gwd-keyframes {
+      0% {
+        opacity: 0;
+        transform: translate3d(207px, -159px, 0px) rotateZ(-33.0788deg);
+        animation-timing-function: linear;
+      }
+      9.5% {
+        opacity: 1;
+        transform: translate3d(197px, -159px, 0px) rotateZ(-33.0788deg);
+        animation-timing-function: linear;
+      }
+      85% {
+        opacity: 1;
+        transform: translate3d(197px, -159px, 0px) rotateZ(-33.0788deg);
+        animation-timing-function: linear;
+      }
+      100% {
+        opacity: 0;
+        transform: translate3d(207px, -159px, 0px) rotateZ(-33.0788deg);
+        animation-timing-function: linear;
+      }
+    }
+    .gwd-play-animation [data-gwd-group="FIREARMS"] .gwd-gen-rl3ogwdanimation {
+      animation: gwd-gen-rl3ogwdanimation_gwd-keyframes 2s linear 0.3s 1 normal forwards;
+    }
+    @keyframes gwd-gen-1srlgwdanimation_gwd-keyframes {
+      0% {
+        opacity: 0;
+        transform: translate3d(10px, 0px, 0px);
+        animation-timing-function: ease-in;
+      }
+      9.05% {
+        opacity: 1;
+        transform: translate3d(0px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      81.9% {
+        opacity: 1;
+        transform: translate3d(0px, 0px, 0px);
+        animation-timing-function: ease-out;
+      }
+      100% {
+        opacity: 0;
+        transform: translate3d(28px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+    }
+    .gwd-play-animation [data-gwd-group="FIREARMS"] .gwd-gen-1srlgwdanimation {
+      animation: gwd-gen-1srlgwdanimation_gwd-keyframes 2.21s linear 0.49s 1 normal forwards;
+    }
+    .gwd-img-6d57 {
+      position: absolute;
+      width: 300px;
+      height: 250px;
+      left: 50%;
+      transform-style: preserve-3d;
+      top: 50%;
+      transform: translate3d(-161px, -135px, 0px);
+      opacity: 1;
+    }
+    @keyframes gwd-gen-fpgfgwdanimation_gwd-keyframes {
+      0% {
+        opacity: 1;
+        transform: translate3d(-161px, -135px, 0px);
+        animation-timing-function: linear;
+      }
+      86.21% {
+        opacity: 1;
+        transform: translate3d(-161px, -135px, 0px);
+        animation-timing-function: ease-out;
+      }
+      100% {
+        opacity: 0;
+        transform: translate3d(-161px, -103px, 0px);
+        animation-timing-function: ease-out;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-fpgfgwdanimation {
+      animation: gwd-gen-fpgfgwdanimation_gwd-keyframes 2.9s linear 0s 1 normal forwards;
+    }
+    .gwd-img-1ahd {
+      position: absolute;
+      width: 300px;
+      height: 250px;
+      left: 50%;
+      transform-style: preserve-3d;
+      top: 50%;
+      opacity: 0;
+      transform: translate3d(-167px, -97px, 0px);
+    }
+    @keyframes gwd-gen-9p1ggwdanimation_gwd-keyframes {
+      0% {
+        transform: translate3d(-167px, -97px, 0px);
+        opacity: 0;
+        animation-timing-function: ease-in;
+      }
+      8.57% {
+        transform: translate3d(-167px, -135px, 0px);
+        opacity: 1;
+        animation-timing-function: linear;
+      }
+      88.57% {
+        transform: translate3d(-167px, -135px, 0px);
+        opacity: 1;
+        animation-timing-function: ease-out;
+      }
+      100% {
+        transform: translate3d(-167px, -98px, 0px);
+        opacity: 0;
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-9p1ggwdanimation {
+      animation: gwd-gen-9p1ggwdanimation_gwd-keyframes 3.5s linear 2.8s 1 normal forwards;
+    }
+    [data-gwd-group="FIREARMS"] .gwd-grp-1c5x.gwd-img-v5am {
+      position: absolute;
+      width: 155px;
+      height: 155px;
+      transform-origin: 77.5px 77.5px 0px;
+      opacity: 0;
+      transform: translate3d(10px, 0px, 0px);
+      transform-style: preserve-3d;
+      left: -10px;
+      top: 3.68715px;
+    }
+    [data-gwd-group="FIREARMS"] .gwd-grp-1c5x.gwd-img-110i {
+      position: absolute;
+      width: 106px;
+      height: 99px;
+      opacity: 0;
+      transform-origin: 52.9425px 49.692px 0px;
+      transform: translate3d(10px, 0px, 0px);
+      left: 159px;
+      top: 81.6871px;
+    }
+    [data-gwd-group="FIREARMS"] .gwd-grp-1c5x.gwd-img-tgcz {
+      position: absolute;
+      transform-style: preserve-3d;
+      width: 240px;
+      height: 100px;
+      transform-origin: 120.731px 51.9363px 0px;
+      opacity: 0;
+      transform: translate3d(207px, -159px, 0px) rotateZ(-33.0788deg);
+      left: -139px;
+      top: 215.687px;
+    }
+    [data-gwd-group="FIREARMS"] {
+      width: 314.908px;
+      height: 214.782px;
+    }
+    .gwd-div-31s0 {
+      position: absolute;
+      left: 21px;
+      top: 4.31285px;
+    }
+    @keyframes gwd-gen-154zgwdanimation_gwd-keyframes {
+      0% {
+        opacity: 0;
+        transform: translate3d(-10px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      14.29% {
+        opacity: 1;
+        transform: translate3d(-3px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      85.71% {
+        opacity: 1;
+        transform: translate3d(-3px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      100% {
+        opacity: 0;
+        transform: translate3d(7px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+    }
+    .gwd-play-animation [data-gwd-group="Accessories"] .gwd-gen-154zgwdanimation {
+      animation: gwd-gen-154zgwdanimation_gwd-keyframes 2.1s linear 4s 1 normal forwards;
+    }
+    @keyframes gwd-gen-1770gwdanimation_gwd-keyframes {
+      0% {
+        opacity: 0;
+        transform: translate3d(-15px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      14.29% {
+        opacity: 1;
+        transform: translate3d(-5px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      85.71% {
+        opacity: 1;
+        transform: translate3d(-5px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      100% {
+        opacity: 0;
+        transform: translate3d(5px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+    }
+    .gwd-play-animation [data-gwd-group="Accessories"] .gwd-gen-1770gwdanimation {
+      animation: gwd-gen-1770gwdanimation_gwd-keyframes 2.1s linear 3.7s 1 normal forwards;
+    }
+    @keyframes gwd-gen-br8ugwdanimation_gwd-keyframes {
+      0% {
+        opacity: 0;
+        transform: translate3d(-103px, -128px, 0px) scale3d(1.25837, 1.25837, 1);
+        left: 50%;
+        animation-timing-function: ease-in;
+      }
+      13.04% {
+        opacity: 1;
+        transform: translate3d(-103px, -114px, 0px) scale3d(1.25182, 1.25182, 1);
+        left: 50%;
+        animation-timing-function: linear;
+      }
+      85.51% {
+        opacity: 1;
+        transform: translate3d(-103px, -114px, 0px) scale3d(1.25182, 1.25182, 1);
+        left: 50%;
+        animation-timing-function: linear;
+      }
+      100% {
+        opacity: 0;
+        transform: translate3d(-103px, -124px, 0px) scale3d(1.25182, 1.25182, 1);
+        left: 50%;
+        animation-timing-function: linear;
+      }
+    }
+    .gwd-play-animation [data-gwd-group="Accessories"] .gwd-gen-br8ugwdanimation {
+      animation: gwd-gen-br8ugwdanimation_gwd-keyframes 2.07s linear 3.13s 1 normal forwards;
+    }
+    @keyframes gwd-gen-cqqagwdanimation_gwd-keyframes {
+      0% {
+        opacity: 0;
+        transform: translate3d(-79px, -52px, 0px) rotateZ(-13.5584deg);
+        animation-timing-function: linear;
+      }
+      14.29% {
+        opacity: 1;
+        transform: translate3d(-69px, -52px, 0px) rotateZ(-13.5584deg);
+        animation-timing-function: linear;
+      }
+      85.71% {
+        opacity: 1;
+        transform: translate3d(-69px, -52px, 0px) rotateZ(-13.5584deg);
+        animation-timing-function: linear;
+      }
+      100% {
+        opacity: 0;
+        transform: translate3d(-59px, -52px, 0px) rotateZ(-13.5584deg);
+        animation-timing-function: linear;
+      }
+    }
+    .gwd-play-animation [data-gwd-group="Accessories"] .gwd-gen-cqqagwdanimation {
+      animation: gwd-gen-cqqagwdanimation_gwd-keyframes 2.1s linear 3.4s 1 normal forwards;
+    }
+    [data-gwd-group="Accessories"] .gwd-grp-vfc8.gwd-img-kcn2 {
+      position: absolute;
+      left: 50%;
+      transform-style: preserve-3d;
+      top: 50%;
+      width: 206px;
+      height: 54px;
+      transform-origin: 102.975px 26.8696px 0px;
+      opacity: 0;
+      transform: translate3d(-103px, -128px, 0px) scale3d(1.25837, 1.25837, 1);
+    }
+    [data-gwd-group="Accessories"] .gwd-grp-vfc8.gwd-img-1xjm {
+      position: absolute;
+      left: 182px;
+      top: 106px;
+      width: 109px;
+      height: 109px;
+      transform-origin: 54.5px 54.5px 0px;
+      opacity: 0;
+      transform-style: preserve-3d;
+      transform: translate3d(-10px, 0px, 0px);
+    }
+    [data-gwd-group="Accessories"] .gwd-grp-vfc8.gwd-img-jisg {
+      position: absolute;
+      width: 31px;
+      height: 76px;
+      transform-origin: 15.5635px 38.1393px 0px;
+      left: 130px;
+      top: 87px;
+      opacity: 0;
+      transform: translate3d(-15px, 0px, 0px);
+      transform-style: preserve-3d;
+    }
+    [data-gwd-group="Accessories"] .gwd-grp-vfc8.gwd-img-1vay {
+      position: absolute;
+      top: 123px;
+      left: 70px;
+      transform-style: preserve-3d;
+      width: 106px;
+      height: 111px;
+      transform-origin: 52.7334px 60.6967px 0px;
+      opacity: 0;
+      transform: translate3d(-79px, -52px, 0px) rotateZ(-13.5584deg);
+    }
+    [data-gwd-group="Accessories"] {
+      width: 300px;
+      height: 250px;
+    }
+    .gwd-div-e7vd {
+      position: absolute;
+      left: 0px;
+      top: 0px;
+    }
+    .gwd-img-i6be {
+      position: absolute;
+      width: 300px;
+      height: 250px;
+      left: 50%;
+      transform-style: preserve-3d;
+      top: 50%;
+      opacity: 0;
+      transform: translate3d(-155px, -96px, 0px);
+    }
+    @keyframes gwd-gen-bdgdgwdanimation_gwd-keyframes {
+      0% {
+        transform: translate3d(-155px, -96px, 0px);
+        opacity: 0;
+        animation-timing-function: ease-in;
+      }
+      100% {
+        transform: translate3d(-155px, -135px, 0px);
+        opacity: 1;
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-bdgdgwdanimation {
+      animation: gwd-gen-bdgdgwdanimation_gwd-keyframes 0.3s linear 6s 1 normal forwards;
+    }
+    .gwd-img-22ug {
+      position: absolute;
+      width: 45px;
+      height: 189px;
+      transform-origin: 22.7791px 95.3057px 0px;
+      left: 242px;
+      top: 8px;
+      transform-style: preserve-3d;
+      opacity: 0;
+      transform: translate3d(-10px, 0px, 0px);
+    }
+    .gwd-img-e33u {
+      position: absolute;
+      width: 223px;
+      height: 147px;
+      transform-origin: 110.758px 72.1704px 0px;
+      left: 8px;
+      top: 92px;
+      transform-style: preserve-3d;
+      transform: translate3d(-26px, -16px, 0px) rotateZ(6.06983deg);
+      opacity: 0;
+    }
+    .gwd-img-1ike {
+      position: absolute;
+      left: 174px;
+      top: 115px;
+      width: 44px;
+      height: 85px;
+      transform-origin: 21.3557px 42.7828px 0px;
+      transform-style: preserve-3d;
+      transform: translate3d(-10px, 0px, 0px);
+      opacity: 0;
+    }
+    .gwd-img-11ac {
+      position: absolute;
+      width: 402px;
+      height: 187px;
+      left: -163px;
+      top: -14px;
+      opacity: 0;
+      transform-origin: 201.173px 96.389px 0px;
+      transform: translate3d(-8px, -2px, 0px);
+      transform-style: preserve-3d;
+    }
+    @keyframes gwd-gen-rt3wgwdanimation_gwd-keyframes {
+      0% {
+        transform: translate3d(-8px, -2px, 0px);
+        animation-timing-function: linear;
+      }
+      96.23% {
+        opacity: 0;
+        transform: translate3d(-8px, -2px, 0px);
+        animation-timing-function: linear;
+      }
+      100% {
+        opacity: 1;
+        transform: translate3d(0px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-rt3wgwdanimation {
+      animation: gwd-gen-rt3wgwdanimation_gwd-keyframes 5.3s linear 1.2s 1 normal forwards;
+    }
+    @keyframes gwd-gen-1uccgwdanimation_gwd-keyframes {
+      0% {
+        transform: translate3d(-26px, -16px, 0px) rotateZ(6.06983deg);
+        opacity: 0;
+        animation-timing-function: linear;
+      }
+      100% {
+        transform: translate3d(-16px, -16px, 0px) rotateZ(6.06983deg);
+        opacity: 1;
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-1uccgwdanimation {
+      animation: gwd-gen-1uccgwdanimation_gwd-keyframes 0.2s linear 6.5s 1 normal forwards;
+    }
+    @keyframes gwd-gen-iaj5gwdanimation_gwd-keyframes {
+      0% {
+        transform: translate3d(-10px, 0px, 0px);
+        opacity: 0;
+        animation-timing-function: linear;
+      }
+      100% {
+        transform: translate3d(0px, 0px, 0px);
+        opacity: 1;
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-iaj5gwdanimation {
+      animation: gwd-gen-iaj5gwdanimation_gwd-keyframes 0.2s linear 6.7s 1 normal forwards;
+    }
+    @keyframes gwd-gen-3md1gwdanimation_gwd-keyframes {
+      0% {
+        opacity: 0;
+        transform: translate3d(-10px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+      100% {
+        opacity: 1;
+        transform: translate3d(0px, 0px, 0px);
+        animation-timing-function: linear;
+      }
+    }
+    #page1.gwd-play-animation .gwd-gen-3md1gwdanimation {
+      animation: gwd-gen-3md1gwdanimation_gwd-keyframes 0.2s linear 6.9s 1 normal forwards;
+    }
+    .gwd-img-wkmd {
+      position: absolute;
+      top: -58px;
+      left: 51px;
+      width: 6000px;
+      height: 3000px;
+    }
+  </style>
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet" type="text/css"><script data-source="googbase_min.js" data-version="3" data-exports-type="googbase" src="googbase_min.js"></script><script data-source="gwd_webcomponents_min.js" data-version="5" data-exports-type="gwd_webcomponents" src="gwd_webcomponents_min.js"></script>
+  <script
+  data-source="gwdpage_min.js" data-version="8" data-exports-type="gwd-page" src="gwdpage_min.js"></script><script data-source="gwdpagedeck_min.js" data-version="9" data-exports-type="gwd-pagedeck" src="gwdpagedeck_min.js"></script><script data-source="https://s0.2mdn.net/ads/studio/Enabler.js" data-exports-type="gwd-doubleclick" src="https://s0.2mdn.net/ads/studio/Enabler.js"></script>
+    <script
+    data-source="gwddoubleclick_min.js" data-version="14" data-exports-type="gwd-doubleclick" src="gwddoubleclick_min.js"></script><script data-source="gwdimage_min.js" data-version="9" data-exports-type="gwd-image" src="gwdimage_min.js"></script><script data-source="gwdbezierpath_min.js" data-version="3" data-exports-type="gwd-bezierpath" src="gwdbezierpath_min.js"></script>
+      <script
+      type="text/javascript" src="groups_runtime.min.1.0.js" gwd-groups-version="1.0"></script>
+        <script type="text/javascript" src="gwdid.min.1.0.js" gwd-gwdid-version="1.0"></script>
+</head>
+
+<body>
+  <template id="gwd-group-definitions">
+    <div data-gwd-group-def="FIREARMS" data-gwd-group-class="gwd-grp-1c5x" style="display: none;">
+      <img is="gwd-image" source="assets/YHM-MODEL-57-Keymod-right.png" class="gwd-img-v5am gwd-gen-1srlgwdanimation gwd-grp-1c5x" data-gwd-grp-id="Bilet57">
+      <img is="gwd-image" source="assets/HRC.png" class="gwd-img-tgcz gwd-gen-rl3ogwdanimation gwd-grp-1c5x" data-gwd-grp-id="hUNTrEADY">
+      <img is="gwd-image" source="assets/YHM-8020.png" class="gwd-img-110i gwd-gen-1f5jgwdanimation gwd-grp-1c5x" data-gwd-grp-id="ARPistol">
+    </div>
+    <div data-gwd-group-def="Accessories" data-gwd-group-class="gwd-grp-vfc8" style="display: none;">
+      <img is="gwd-image" source="assets/SLK-HGs.png" class="gwd-img-kcn2 gwd-gen-br8ugwdanimation gwd-grp-vfc8" data-gwd-grp-id="SLK">
+      <img is="gwd-image" source="assets/GasBlock.png" class="gwd-img-1vay gwd-gen-cqqagwdanimation gwd-grp-vfc8" data-gwd-grp-id="gwd-image_1">
+      <img is="gwd-image" source="assets/Slant.png" class="gwd-img-jisg gwd-gen-1770gwdanimation gwd-grp-vfc8" data-gwd-grp-id="Slant">
+      <img is="gwd-image" source="assets/QDS.png" class="gwd-img-1xjm gwd-gen-154zgwdanimation gwd-grp-vfc8" data-gwd-grp-id="QDS">
+    </div>
+  </template>
+  <gwd-doubleclick id="gwd-ad" polite-load="">
+    <gwd-metric-configuration></gwd-metric-configuration>
+    <div is="gwd-pagedeck" class="gwd-page-container" id="pagedeck">
+      <div is="gwd-page" id="page1" class="gwd-page-wrapper gwd-page-size gwd-lightbox" data-gwd-width="300px" data-gwd-height="250px">
+        <div class="gwd-page-content gwd-page-size">
+          <div class="gwd-div-1kk7" id="BG" data-gwd-tl-locked=""></div>
+          <canvas is="gwd-bezierpath" width="256" height="33" class="gwd-canvas-1dhy" id="BLUE" data-gwd-tl-locked="" anchors="[[[256.01,0.87,0],[256,0.16,0],[256,0.16,0]],[[256,32.98,0],[256,32.98,0],[256,32.98,0]],[[0,33,0],[0,33,0],[0,33,0]],[[31.7,0,0],[31.7,0,0],[31.7,0,0]]]"
+          closed="" stroke-width="0" stroke-color="null" fill-color="[0,0.3607843137254902,0.5686274509803921,1]" geom-type="5" data-gwd-tl-hidden=""></canvas>
+          <div class="gwd-div-11d9" data-gwd-tl-hidden=""></div>
+          <canvas is="gwd-bezierpath" width="301" height="75" class="gwd-canvas-3evy" anchors="[[[0.88,2.56,0],[0.51,0.57,0],[0.51,0.57,0]],[[54,0.5,0],[54,0.5,0],[54,0.5,0]],[[114.54,27.93,0],[114.54,27.93,0],[114.54,27.93,0]],[[300.51,28.13,0],[300.51,28.13,0],[300.51,28.13,0]],[[300.5,74.59,0],[300.5,74.59,0],[300.5,74.59,0]],[[0.5,74.6,0],[0.5,74.6,0],[0.5,74.6,0]]]"
+          closed="" stroke-width="1" stroke-color="null" fill-color="[1,1,1,1]" geom-type="5"></canvas>
+          <img is="gwd-image" source="assets/RegLgo1.png" id="Logo" class="gwd-img-1xym gwd-gen-7eu7gwdanimation">
+          <img is="gwd-image" source="assets/FIREARMS.png" id="FIREARMS" class="gwd-img-6d57 gwd-gen-fpgfgwdanimation">
+          <img is="gwd-image" source="assets/Accessories.png" id="ACCESSORIES" class="gwd-img-1ahd gwd-gen-9p1ggwdanimation">
+          <img is="gwd-image" source="assets/SoundSuppression.png" id="SOUNDSUPPRESSION" class="gwd-img-i6be gwd-gen-bdgdgwdanimation">
+          <div class="gwd-div-31s0" data-gwd-group="FIREARMS" id="Firearms"></div>
+          <div class="gwd-div-e7vd" data-gwd-group="Accessories" id="Accessories"></div>
+          <img is="gwd-image" source="assets/NEW-Just-Nitro.png" id="Nitro" class="gwd-img-22ug gwd-gen-3md1gwdanimation">
+          <img is="gwd-image" source="assets/3chamber-brake.png" id="ThreeChamber" class="gwd-img-1ike gwd-gen-iaj5gwdanimation">
+          <img is="gwd-image" source="assets/Phantom30M2.png" id="Phantom" class="gwd-img-e33u gwd-gen-1uccgwdanimation">
+          <img is="gwd-image" source="assets/Stinger_1.png" id="Stinger" class="gwd-img-11ac gwd-gen-rt3wgwdanimation">
+          <img is="gwd-image" source="assets/Suppressor Logo_8_1.png" id="gwd-image_2" class="gwd-img-wkmd">
+        </div>
+      </div>
+    </div>
+  </gwd-doubleclick>
+  <script type="text/javascript" id="gwd-init-code">
+    (function() {
+      var gwdAd = document.getElementById('gwd-ad');
+
+      /**
+       * Handles the DOMContentLoaded event. The DOMContentLoaded event is
+       * fired when the document has been completely loaded and parsed.
+       */
+      function handleDomContentLoaded(event) {
+
+      }
+
+      /**
+       * Handles the WebComponentsReady event. This event is fired when all
+       * custom elements have been registered and upgraded.
+       */
+      function handleWebComponentsReady(event) {
+        // Start the Ad lifecycle.
+        setTimeout(function() {
+          gwdAd.initAd();
+        }, 0);
+      }
+
+      /**
+       * Handles the event that is dispatched after the Ad has been
+       * initialized and before the default page of the Ad is shown.
+       */
+      function handleAdInitialized(event) {}
+
+      window.addEventListener('DOMContentLoaded',
+        handleDomContentLoaded, false);
+      window.addEventListener('WebComponentsReady',
+        handleWebComponentsReady, false);
+      window.addEventListener('adinitialized',
+        handleAdInitialized, false);
+    })();
+  </script>
+</body>
+
+</html>
